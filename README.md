@@ -1,6 +1,6 @@
 # H723ZG-Blink
 
-Simple example of blink with board NUCLEO-H723ZG
+Simple example of blink with board NUCLEO-H723ZG using  EXTI (EXTernal Interrupt/Event).
 
 ## Log
 
